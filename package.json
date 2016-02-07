@@ -1,7 +1,7 @@
 {
-  "name": "react-dev-env",
+  "name": "my-vagrant-react-env",
   "version": "1.0.0",
-  "description": "react-dev-env",
+  "description": "my-vagrant-react-env",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/repository.git"
+    "url": "https://github.com/dtotheb/my-vagrant-react-env.git"
   },
   "keywords": [],
   "author": "",
