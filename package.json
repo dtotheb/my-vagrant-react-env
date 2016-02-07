@@ -1,12 +1,16 @@
 {
-  "name": "kanban-app",
+  "name": "react-dev-env",
   "version": "1.0.0",
-  "description": "",
+  "description": "react-dev-env",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "start": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +20,8 @@
     "babel-loader": "^6.2.1",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
+    "babel-preset-react-hmre": "^1.0.1",
+    "babel-preset-survivejs-kanban": "^0.1.1",
     "css-loader": "^0.23.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.12",
